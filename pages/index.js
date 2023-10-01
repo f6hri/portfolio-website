@@ -25,7 +25,7 @@ export default function Index() {
         </div>
         <div className="my-8 p-3 bg-gray-200 rounded-lg text-center dark:bg-gray-700">
           <p>
-            Hi &#128075; I am full-stack developer based in Turkey
+            Selam &#128075; Ben web siteleri geliştiriyorum.
           </p>
         </div>
         <div className="my-8">
